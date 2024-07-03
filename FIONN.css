@@ -1,0 +1,22 @@
+body{
+    background-image: url(rickroll-roll.gif)
+}
+.heading{
+    border: 5px dashed gray;
+    color: azure;
+    padding: 1px;
+    position:absolute;
+    top:20%;
+    left:50%;
+
+}
+h1{
+    color: black;
+    font-size:30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.the boiled one{
+    position:absolute;
+    top:70%;
+    left:70%;
+}
